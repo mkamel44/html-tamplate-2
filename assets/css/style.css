@@ -25,7 +25,7 @@ a:hover {
 }
 
 .bg_color_main_navbar {
-    background-image: url('img/img31.png');
+    background-color: #0aa289;
 }
 
 .main_link {
@@ -52,14 +52,14 @@ a:hover {
 }
 
 .bg_title_line {
-    background-image: url('img/img10.png');
+    background-image: url('../../images/img10.png');
     height: 50px;
     width: 300px;
     float: right;
 }
 
 .block_slider {
-    background-image: url("img/img12.png");
+    background-image: url("../../images/img12.png");
     height: 462px;
 }
 
