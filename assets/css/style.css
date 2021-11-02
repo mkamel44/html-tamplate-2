@@ -58,7 +58,6 @@ a:hover {
 }
 
 .block_slider {
-    background-image: url("../../images/img12.png");
     height: 462px;
 }
 
@@ -200,5 +199,119 @@ a:hover {
     font-weight: bold;
     padding-top: 15px;
     display: inline-block;
+}
+
+.slider_background {
+    background-image: url("../../images/img9.png");
+    height: 455px;
+    width: 322px;
+}
+
+.slider_top_col_padding_0 {
+    padding: 0px;
+    padding-top: 10px;
+}
+
+.slider_backgrount_col_1 {
+    background-image: url("../../images/img19.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 64px;
+    width: 119px;
+    direction: rtl;
+}
+
+.slider_backgrount_col_2 {
+    background-image: url("../../images/img18.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 64px;
+    width: 119px;
+    direction: rtl;
+}
+
+.slider_row_payments {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.slider_paymeny_yee {
+    justify-content: center;
+    padding: 0px;
+    padding-top: 10px;
+}
+
+.slider_payment_fee {
+    justify-content: center;
+    padding: 0px;
+}
+
+.slider_text_name {
+    direction: rtl;
+    padding: 30px;
+    text-align: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.slider_pay_box {
+    background-image: url("../../images/img20.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 66px;
+    width: 292px;
+}
+
+.slider_pay_col_now {
+    font-size: 20px;
+    text-align: center;
+    padding: 18px;
+    padding-left: 50px;
+}
+
+.slider_plus_col {
+    padding-top: 25px;
+    font-size: 20px;
+    color: #09a188;
+}
+
+.slider_minus_col {
+    padding-top: 25px;
+    padding-right: 20px;
+    font-size: 20px;
+    color: #09a188;
+}
+
+.slider_pay_number {
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    direction: rtl;
+}
+
+.slider_minus_col_padding_0 {
+    padding-left: 0px;
+}
+
+.slider_text_name_2 {
+    direction: rtl;
+    padding: 15px;
+    text-align: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.slider_pay_2_box {
+    background-image: url("../../images/img12.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 66px;
+    width: 292px;
+    padding-top: 20px;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
 }
 
