@@ -44,7 +44,6 @@ a:hover {
 
 .title_text {
     text-align: right;
-    font-family: Cairo;
     font-size: 25px;
     font-weight: 700;
     padding: 10px;
@@ -85,10 +84,11 @@ a:hover {
 }
 
 .title_news {
+    text-align: right;
     padding: 10px;
     font-weight: bold;
     font-size: 20px;
-    text-align: right;
+    direction: rtl;
 }
 
 .img_news_center {
@@ -99,6 +99,7 @@ a:hover {
 
 .text_news {
     text-align: right;
+    direction: rtl;
     padding-right: 10px;
     padding-left: 10px;
     margin-bottom: 0px;
@@ -164,5 +165,40 @@ a:hover {
     padding-top: 40px;
     padding-left: 2px;
     padding-right: 2px;
+}
+
+.img_banner_middle {
+    height: 450px;
+    width: 1200px;
+    background-image: url('../../images/img7.png');
+}
+
+.title_middle_banner {
+    font-size: 25px;
+    font-weight: 700;
+    padding: 10px;
+    color: #9650a5;
+}
+
+.text_middle_banner {
+    font-size: 25px;
+    width: 500px;
+    text-align: justify;
+}
+
+.text_middle_link_banner {
+    background-image: url('../../images/img8.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 213px;
+    height: 58px;
+}
+
+.text_middle_link_text_banner {
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 15px;
+    display: inline-block;
 }
 
